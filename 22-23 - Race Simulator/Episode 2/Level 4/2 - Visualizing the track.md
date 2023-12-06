@@ -1,0 +1,5 @@
+# Visualizing the track
+## Taak
+Om je werk eenvoudiger te maken, werk je vaak parallel aan verschillende onderdelen. De debugger geeft veel inzicht over de werking van je code. Toch is het ook prettig om daadwerkelijk je code "in actie" te zien. Daarom ga je alvast een baan visualizeren zodat je bij de je volgende taken een beter beeld krijg over de werking van je code.
+
+In deze taak ga je werken aan je console project en je baan met tekst en (ASCII) tekens visualiseren. Uiteraard kan je helemaal los gaan en al je creativiteit inzetten. Dit is meteen ook een valkuil. Als software ontwikkelaar moet je altijd de beschikbare tijd en het einddoel bewaken. De tip is bijna altijd: maak eerst wat er minimaal verwacht wordt. Wanneer er tijd over is kan je altijd nog je werk beter, efficiënter en mooier maken. Stel daarom altijd eerst vast wat er precies verwacht wordt en hoeveel tijd je hiervoor krijgt.

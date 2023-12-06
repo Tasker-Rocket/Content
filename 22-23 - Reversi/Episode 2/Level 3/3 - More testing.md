@@ -1,0 +1,5 @@
+# More testing
+## Taak
+Je hebt je eerste test geschreven om vervolgens inzicht te krijgen wat je eigenlijk nog allemaal moet testen. Uiteraard sta je te popelen om alle code te testen om zo een 100% code coverage te bereiken. De valkuil is dat 100% eigenlijk moeilijk te bereiken is, zeker wanneer het project groter en complexer wordt. Voorafgaand aan een project spreek je met de opdrachtgever vaak een minimale percentage code coverage af die je minimaal moet bereiken met unit tests. Na elke oplevering rapporteer je, in een test rapport, hierover eventueel aangevuld met andere (handmatige) tests om zo toch (bijna) tot die 100% code coverage te komen.
+
+In deze taak gaan we de methode NextTrack verder testen. In de vorige test heb je getest of de methode null retourneert wanneer de queue leeg is. Nu ga je testen dat de methode een Track retourneert wanneer de queue niet leeg is.
